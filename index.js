@@ -21,7 +21,7 @@ function newTask(title, description) {
 
 
 const task1 = newTask("watering plants", "put them on the balconey");
-const task2 = newTask("making te");
+const task2 = newTask("making tea");
 const tasks = [task1, task2];
 
 task1.logState(); // Clean Cat Litter has not been completed
